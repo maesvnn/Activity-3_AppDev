@@ -21,6 +21,7 @@ if (age >= 18)
     Console.WriteLine("Age: " + age);
     Console.WriteLine("Username: " + username);
     Console.WriteLine("Registered Successfully!");
+    Console.WriteLine("Welcome to YOLO Registration System!");
 }
 else
 {
